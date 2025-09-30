@@ -1,5 +1,5 @@
 /*
-* @Author Brayden Thistlr
+* @Author Brayden Thistle
 * @version 1.0.0
 * @date 2025-09-30
 * @fileoverview this program practices literal strings
